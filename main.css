@@ -1,0 +1,150 @@
+.body{
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  font-family: 'arial';
+  color: rgb(253, 251, 251);
+
+   
+}
+.navbar{
+  background-color: #000000;
+  box-shadow: 2px 2px 2px #b5b5b6;
+  opacity: 10;
+}
+.dropdown-menu{
+  background-color: #6abfc8;
+  font-size: medium;
+}
+
+.navbar .nav-item .nav-link {
+  color: rgb(253, 251, 251);
+  font-size: medium;
+}
+
+.navbar .navbar-brand {
+  color: rgb(211, 211, 211);
+  font-size: x-large;
+}
+
+.main-header {
+  position: relative;
+  background:url(img/fondo-Uniformes.jpg);
+  background-size: cover;
+  min-height: 600px;
+}
+
+.background-overlay {
+  background: rgba(00, 00, 000,.2);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#somos{
+  background:  #000000 ;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+#banner{position: relative;
+  background:url(G:/Respaldo_htdoc/roomproductions/img/banner_1.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:  #ffffff;
+  text-shadow: #1d1d1d;
+}
+#banner_2{position: relative;
+  background:url(G:/Respaldo_htdoc/roomproductions/img/banner_2.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:  #ffffff;
+  text-shadow: #1d1d1d;
+}
+#banner_3{position: relative;
+  background:url(G:/Respaldo_htdoc/roomproductions/img/banner_3.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:  #ffffff;
+  text-shadow: #1d1d1d;
+}
+#banner_4{position: relative;
+  background:url(G:/Respaldo_htdoc/roomproductions/img/banner_4.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:  #ffffff;
+  text-shadow: #1d1d1d;
+}
+#banner_5{position: relative;
+  background:url(G:/Respaldo_htdoc/roomproductions/img/banner_5.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:  #ffffff;
+  text-shadow: #1d1d1d;
+}
+#banner_6{position: relative;
+  background:url(G:/Respaldo_htdoc/roomproductions/img/banner_6.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:  #ffffff;
+  text-shadow: #1d1d1d;
+}
+#banner_7{position: relative;
+  background:url(G:/Respaldo_htdoc/roomproductions/img/banner_7.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:  #ffffff;
+  text-shadow: #1d1d1d;
+}
+
+#clientes{
+  background-image: linear-gradient(to bottom, #000000 0%, #000000 100%);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#contacto{
+  background: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#copyrigth {
+  background: rgb(19, 18, 18);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
